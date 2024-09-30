@@ -47,6 +47,7 @@ int main(){
         		system("cls");
         		printBoard();
         		printf("<----- KAMU MENANG !! ----->\n");
+			printf("<----- Game by Agra000 ----->\n");
         		break;
 			}
 		}else{
